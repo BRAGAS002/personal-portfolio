@@ -61,7 +61,7 @@ nav {
     padding: 0;
     display: flex;
     justify-content: center;
-	
+list-style-type: none;
 }
 
 .tab a {
@@ -109,7 +109,7 @@ ul li {
     height: auto;
     border-radius: 8px;
     margin-top: 20px;
-	border: 5px solid black;
+    border: 5px solid black;
 }
 
 .home-tab {
@@ -124,6 +124,5 @@ ul li {
     color: white;
     display: block;
     padding: 15px 20px;
-    text-align: center;
-	text-decoration: none;
+    text-align: center;text-decoration: none;
 }
